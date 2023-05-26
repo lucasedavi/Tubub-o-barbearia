@@ -1,0 +1,29 @@
+body{
+background-color: rgb(255, 255, 255);
+
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background: rgb(6, 61, 243);
+    border-radius: 50px;
+}
+p{
+margin-left: 150px;
+
+}
+
+.imagem{
+ display: block;
+ margin-left: 300px;
+ margin-right: 100px;
+ border:solid 4px rgb(0, 0, 255);
+width: 500px;
+}
+
+p{
+color:rgb(0, 0, 0);
+text-decoration: none;
+
+}
