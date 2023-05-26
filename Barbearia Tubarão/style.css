@@ -16,7 +16,9 @@ margin-left: 150px;
 
 .imagem{
  display: block;
- margin-left: auto;
-
+ margin-left: 300px;
+ margin-right: 100px;
+ border:solid 4px rgb(0, 128, 255);
+width: 500px;
 
 }
